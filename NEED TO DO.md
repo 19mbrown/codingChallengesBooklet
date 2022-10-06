@@ -21,13 +21,13 @@ Number Names ///
 
 Regex Query Tool ///
 
+Caesar Cipher ///
+
 # NEED TO DO
 
 Classification
 
 Quiz Maker
-
-Caesar Cipher
 
 Events calendar
 
