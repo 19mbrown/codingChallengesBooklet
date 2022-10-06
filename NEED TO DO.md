@@ -29,6 +29,8 @@ Kaprekar ///
 
 Number Table ///
 
+Years in a Range ///
+
 # NEED TO DO
 
 Classification
@@ -36,8 +38,6 @@ Classification
 Quiz Maker
 
 Events calendar
-
-Years in a Range
 
 Logic Gate
 
