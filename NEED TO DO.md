@@ -23,6 +23,8 @@ Regex Query Tool ///
 
 Caesar Cipher ///
 
+Pangrams ///
+
 # NEED TO DO
 
 Classification
@@ -30,8 +32,6 @@ Classification
 Quiz Maker
 
 Events calendar
-
-Pangrams
 
 Kaprekar
 
