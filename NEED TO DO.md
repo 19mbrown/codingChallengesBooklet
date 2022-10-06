@@ -39,6 +39,8 @@ Simple Life Calculator ///
 
 Fibbing ///
 
+Hack-proof
+
 # NEED TO DO
 
 Classification
@@ -48,8 +50,6 @@ Quiz Maker
 Events calendar
 
 Data Entry
-
-Hack-proof
 
 Ordering
 
