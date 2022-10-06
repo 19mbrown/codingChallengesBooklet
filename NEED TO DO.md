@@ -25,6 +25,8 @@ Caesar Cipher ///
 
 Pangrams ///
 
+Kaprekar ///
+
 # NEED TO DO
 
 Classification
@@ -32,8 +34,6 @@ Classification
 Quiz Maker
 
 Events calendar
-
-Kaprekar
 
 Number Table
 
