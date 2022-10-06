@@ -19,12 +19,11 @@ Happy Numbers ///
 
 Number Names ///
 
+Regex Query Tool ///
 
 # NEED TO DO
 
 Classification
-
-Regex Query Tool
 
 Quiz Maker
 
