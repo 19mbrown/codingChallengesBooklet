@@ -31,6 +31,10 @@ Number Table ///
 
 Years in a Range ///
 
+Palindromes ///
+
+Logic Gate ///
+
 # NEED TO DO
 
 Classification
@@ -38,10 +42,6 @@ Classification
 Quiz Maker
 
 Events calendar
-
-Logic Gate
-
-Palindromes
 
 Data Entry
 
