@@ -27,6 +27,8 @@ Pangrams ///
 
 Kaprekar ///
 
+Number Table ///
+
 # NEED TO DO
 
 Classification
@@ -34,8 +36,6 @@ Classification
 Quiz Maker
 
 Events calendar
-
-Number Table
 
 Years in a Range
 
