@@ -35,6 +35,8 @@ Palindromes ///
 
 Logic Gate ///
 
+Simple Life Calculator ///
+
 # NEED TO DO
 
 Classification
@@ -44,8 +46,6 @@ Quiz Maker
 Events calendar
 
 Data Entry
-
-Simple Life Calculator
 
 Fibbing
 
