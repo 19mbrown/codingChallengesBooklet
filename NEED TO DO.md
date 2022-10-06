@@ -17,11 +17,12 @@ Arithmetic test ///
 
 Happy Numbers ///
 
+Number Names ///
+
+
 # NEED TO DO
 
 Classification
-
-Number Names
 
 Regex Query Tool
 
