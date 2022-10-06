@@ -1,10 +1,11 @@
+# DONE 
+
+
 Factorial Finder ///
 
 Speed Tracker ///
 
 Thief! ///
-
-Classification
 
 Fruit Machine ///
 
@@ -15,6 +16,10 @@ Credit Card Validator ///
 Arithmetic test ///
 
 Happy Numbers ///
+
+# NEED TO DO
+
+Classification
 
 Number Names
 
