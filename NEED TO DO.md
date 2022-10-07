@@ -76,6 +76,8 @@ Find the factorial
 
 Reverse it
 
+Text-speak converter
+
 # NEED TO DO
 
 Classification
@@ -99,10 +101,6 @@ Complex Numbers
 Fireworks
 
 Mandelbrot Set
-
-Text-speak converter
-
-Is this card valid?
 
 Mortgage Calculator
 
