@@ -82,6 +82,8 @@ Mortgage Calculator
 
 R@nd0m P@ssw0rd generator
 
+I like Pi
+
 # NEED TO DO
 
 Classification
@@ -121,8 +123,6 @@ CSV File Utility
 Get GIFy with it
 
 Your name is...
-
-I like Pi
 
 Galaxy song
 
