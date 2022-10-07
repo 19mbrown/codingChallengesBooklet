@@ -40,7 +40,9 @@ Fibbing
 
 Hack-proof 
 
-Ordering 
+Ordering
+
+Word Subtraction
 
 # NEED TO DO
 
