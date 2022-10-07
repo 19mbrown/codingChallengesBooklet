@@ -1,47 +1,46 @@
 # DONE 
 
+Factorial Finder 
 
-Factorial Finder ///
+Speed Tracker 
 
-Speed Tracker ///
+Thief! 
 
-Thief! ///
+Fruit Machine 
 
-Fruit Machine ///
+Unit Converter (temperature, currency, volume) 
 
-Unit Converter (temperature, currency, volume) ///
+Credit Card Validator 
 
-Credit Card Validator ///
+Arithmetic test 
 
-Arithmetic test ///
+Happy Numbers 
 
-Happy Numbers ///
+Number Names 
 
-Number Names ///
+Regex Query Tool 
 
-Regex Query Tool ///
+Caesar Cipher 
 
-Caesar Cipher ///
+Pangrams 
 
-Pangrams ///
+Kaprekar 
 
-Kaprekar ///
+Number Table 
 
-Number Table ///
+Years in a Range 
 
-Years in a Range ///
+Palindromes 
 
-Palindromes ///
+Logic Gate 
 
-Logic Gate ///
+Simple Life Calculator 
 
-Simple Life Calculator ///
+Fibbing 
 
-Fibbing ///
+Hack-proof 
 
-Hack-proof ///
-
-Ordering ///
+Ordering 
 
 # NEED TO DO
 
@@ -54,8 +53,6 @@ Events calendar
 Data Entry
 
 Truth or not!
-
-Word Subtraction
 
 Name that Number
 
