@@ -72,6 +72,8 @@ Prime Factorisation
 
 Tilers mate
 
+Find the factorial
+
 # NEED TO DO
 
 Classification
@@ -89,8 +91,6 @@ Name that Number
 The meaning of life
 
 Sudoku
-
-Find the factorial
 
 Complex Numbers
 
