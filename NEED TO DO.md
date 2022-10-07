@@ -52,6 +52,8 @@ Code it up
 
 Item Merge
 
+Mor-se Coding
+
 # NEED TO DO
 
 Classification
@@ -65,8 +67,6 @@ Data Entry
 Truth or not!
 
 Name that Number
-
-Mor-se Coding
 
 What’s the day?
 
