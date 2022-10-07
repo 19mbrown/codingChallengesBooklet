@@ -64,6 +64,8 @@ Fizz Buzz
 
 Sing Along
 
+Even more Odd
+
 # NEED TO DO
 
 Classification
@@ -77,8 +79,6 @@ Data Entry
 Truth or not!
 
 Name that Number
-
-Even more Odd
 
 Base of Numbers
 
