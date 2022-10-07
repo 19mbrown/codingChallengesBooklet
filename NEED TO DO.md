@@ -68,6 +68,10 @@ Even more Odd
 
 Base of Numbers
 
+Prime Factorisation
+
+Tilers mate
+
 # NEED TO DO
 
 Classification
@@ -81,10 +85,6 @@ Data Entry
 Truth or not!
 
 Name that Number
-
-Prime Factorisation
-
-Tilers mate
 
 The meaning of life
 
