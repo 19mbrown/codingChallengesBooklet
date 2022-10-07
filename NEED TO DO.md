@@ -74,6 +74,8 @@ Tilers mate
 
 Find the factorial
 
+Reverse it
+
 # NEED TO DO
 
 Classification
@@ -93,8 +95,6 @@ The meaning of life
 Sudoku
 
 Complex Numbers
-
-Reverse it
 
 Fireworks
 
