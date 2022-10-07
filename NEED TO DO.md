@@ -66,6 +66,8 @@ Sing Along
 
 Even more Odd
 
+Base of Numbers
+
 # NEED TO DO
 
 Classification
@@ -79,8 +81,6 @@ Data Entry
 Truth or not!
 
 Name that Number
-
-Base of Numbers
 
 Prime Factorisation
 
