@@ -62,6 +62,8 @@ Triangulate
 
 Fizz Buzz
 
+Sing Along
+
 # NEED TO DO
 
 Classification
@@ -75,8 +77,6 @@ Data Entry
 Truth or not!
 
 Name that Number
-
-Sing Along
 
 Even more Odd
 
