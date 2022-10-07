@@ -5,11 +5,10 @@ number = number.split(" ")
 print(number[0], "|", end="")
 for i in range(int(number[1]) + 1):
     print(str(i).ljust(6), end="")
+print()
 
 for i in range(int(number[1]) + 1):
-    if number[0] == "/" and i == 0:
-        i
-    else: 
+    if not ((number[0] == "/" and i == 0) or (number[0] == "*" and i == 0)):
         print(i, "|", end="")
         for j in range(int(number[1]) + 1):
             match number[0]:
@@ -27,4 +26,4 @@ for i in range(int(number[1]) + 1):
                             print(str(i / j, 3).lstrip("0").ljust(6), end="")
                         else:
                             print(str(round(i / j, 3)).ljust(6), end="")
-    print("\n", end="")
+        print("\n", end="")
