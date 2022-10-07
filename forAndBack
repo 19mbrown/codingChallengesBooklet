@@ -1,0 +1,11 @@
+x = input("Enter a string: ")
+
+for i in range(len(x)):
+    y = x[::-1]
+    if y[i] == x[i]:
+        a = True
+    else:
+        a = "False"
+        break
+
+print(a)
