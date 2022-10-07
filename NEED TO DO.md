@@ -48,6 +48,8 @@ Year Addition
 
 Forwards and Backwards
 
+Code it up
+
 # NEED TO DO
 
 Classification
@@ -63,8 +65,6 @@ Truth or not!
 Name that Number
 
 Item Merge
-
-Code it up
 
 Mor-se Coding
 
