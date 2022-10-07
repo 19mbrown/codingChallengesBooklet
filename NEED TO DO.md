@@ -78,6 +78,8 @@ Reverse it
 
 Text-speak converter
 
+Mortgage Calculator
+
 # NEED TO DO
 
 Classification
@@ -101,8 +103,6 @@ Complex Numbers
 Fireworks
 
 Mandelbrot Set
-
-Mortgage Calculator
 
 Dear Diary
 
