@@ -44,6 +44,8 @@ Ordering
 
 Word Subtraction
 
+Year Addition
+
 # NEED TO DO
 
 Classification
@@ -59,8 +61,6 @@ Truth or not!
 Name that Number
 
 Item Merge
-
-Year Addition
 
 Forwards and Backwards
 
