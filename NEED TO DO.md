@@ -60,6 +60,8 @@ Game of Chance
 
 Triangulate
 
+Fizz Buzz
+
 # NEED TO DO
 
 Classification
@@ -73,8 +75,6 @@ Data Entry
 Truth or not!
 
 Name that Number
-
-Fizz Buzz
 
 Sing Along
 
