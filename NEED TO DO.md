@@ -58,6 +58,8 @@ What’s the day?
 
 Game of Chance
 
+Triangulate
+
 # NEED TO DO
 
 Classification
@@ -71,8 +73,6 @@ Data Entry
 Truth or not!
 
 Name that Number
-
-Triangulate
 
 Fizz Buzz
 
