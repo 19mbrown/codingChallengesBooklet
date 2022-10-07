@@ -46,6 +46,8 @@ Word Subtraction
 
 Year Addition
 
+Forwards and Backwards
+
 # NEED TO DO
 
 Classification
@@ -61,8 +63,6 @@ Truth or not!
 Name that Number
 
 Item Merge
-
-Forwards and Backwards
 
 Code it up
 
