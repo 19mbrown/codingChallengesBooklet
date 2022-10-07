@@ -94,8 +94,6 @@ Sudoku
 
 Complex Numbers
 
-Happy Numbers =)
-
 Reverse it
 
 Fireworks
