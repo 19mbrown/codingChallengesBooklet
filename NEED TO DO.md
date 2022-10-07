@@ -56,6 +56,8 @@ Mor-se Coding
 
 What’s the day?
 
+Game of Chance
+
 # NEED TO DO
 
 Classification
@@ -69,8 +71,6 @@ Data Entry
 Truth or not!
 
 Name that Number
-
-Game of Chance
 
 Triangulate
 
