@@ -50,6 +50,8 @@ Forwards and Backwards
 
 Code it up
 
+Item Merge
+
 # NEED TO DO
 
 Classification
@@ -63,8 +65,6 @@ Data Entry
 Truth or not!
 
 Name that Number
-
-Item Merge
 
 Mor-se Coding
 
