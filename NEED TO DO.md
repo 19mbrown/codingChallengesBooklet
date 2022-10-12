@@ -90,6 +90,8 @@ Quiz Maker
 
 Secret Ciphers
 
+Dear Diary
+
 # NEED TO DO
 
 Events calendar
@@ -109,8 +111,6 @@ Complex Numbers
 Fireworks
 
 Mandelbrot Set
-
-Dear Diary
 
 Page Scraper
 
