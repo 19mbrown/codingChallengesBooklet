@@ -92,6 +92,8 @@ Secret Ciphers
 
 Dear Diary
 
+What have the Romans ever done for us?
+
 # NEED TO DO
 
 Events calendar
@@ -129,8 +131,6 @@ Galaxy song
 Spam filter
 
 Silly walks
-
-What have the Romans ever done for us?
 
 Semaphore
 
