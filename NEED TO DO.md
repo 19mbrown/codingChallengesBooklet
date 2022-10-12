@@ -88,6 +88,8 @@ Classification
 
 Quiz Maker
 
+Secret Ciphers
+
 # NEED TO DO
 
 Events calendar
@@ -109,8 +111,6 @@ Fireworks
 Mandelbrot Set
 
 Dear Diary
-
-Secret Ciphers
 
 Page Scraper
 
