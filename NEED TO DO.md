@@ -96,6 +96,8 @@ What have the Romans ever done for us?
 
 Of mice and men
 
+2 fiddy
+
 # NEED TO DO
 
 Events calendar
@@ -151,8 +153,6 @@ String permutation
 That’s a lot of number
 
 Fib on a chi
-
-2 fiddy
 
 Printer problems
 
