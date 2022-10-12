@@ -94,6 +94,8 @@ Dear Diary
 
 What have the Romans ever done for us?
 
+Of mice and men
+
 # NEED TO DO
 
 Events calendar
@@ -135,8 +137,6 @@ Silly walks
 Semaphore
 
 Beautiful soup
-
-Of mice and men
 
 Goldbach
 
