@@ -98,6 +98,8 @@ Of mice and men
 
 2 fiddy
 
+Your name is...
+
 # NEED TO DO
 
 Events calendar
@@ -127,8 +129,6 @@ Text based game
 CSV File Utility
 
 Get GIFy with it
-
-Your name is...
 
 Galaxy song
 
