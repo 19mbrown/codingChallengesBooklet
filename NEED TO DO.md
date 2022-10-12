@@ -100,6 +100,8 @@ Of mice and men
 
 Your name is...
 
+Spam filter
+
 # NEED TO DO
 
 Events calendar
@@ -131,8 +133,6 @@ CSV File Utility
 Get GIFy with it
 
 Galaxy song
-
-Spam filter
 
 Silly walks
 
