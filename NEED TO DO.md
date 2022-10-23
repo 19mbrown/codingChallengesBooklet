@@ -104,6 +104,8 @@ Spam filter
 
 Happy Hopper
 
+Lists
+
 # NEED TO DO
 
 Events calendar
@@ -143,8 +145,6 @@ Semaphore
 Beautiful soup
 
 Goldbach
-
-Lists
 
 Travel club
 
