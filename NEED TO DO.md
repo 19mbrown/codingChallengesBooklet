@@ -102,6 +102,8 @@ Your name is...
 
 Spam filter
 
+Happy Hopper
+
 # NEED TO DO
 
 Events calendar
@@ -155,5 +157,3 @@ That’s a lot of number
 Fib on a chi
 
 Printer problems
-
-Happy Hopper
