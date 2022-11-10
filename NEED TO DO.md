@@ -108,6 +108,8 @@ Lists
 
 Page Scraper
 
+Fib on a chi
+
 # NEED TO DO
 
 Beautiful soup
@@ -153,7 +155,5 @@ Checkmate checker
 String permutation
 
 That’s a lot of number
-
-Fib on a chi
 
 Printer problems
