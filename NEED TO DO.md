@@ -106,6 +106,8 @@ Happy Hopper
 
 Lists
 
+Beautiful soup
+
 # NEED TO DO
 
 Events calendar
@@ -141,8 +143,6 @@ Galaxy song
 Silly walks
 
 Semaphore
-
-Beautiful soup
 
 Goldbach
 
