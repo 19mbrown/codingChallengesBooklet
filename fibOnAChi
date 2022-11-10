@@ -1,0 +1,6 @@
+new = {0: 0, 1: 1}
+for i in range(2, 5000):
+    new[i] = new[i - 1] + new[i-2]
+    if len(str(new[i])) >= 1000:
+        print(new[i])
+        break
