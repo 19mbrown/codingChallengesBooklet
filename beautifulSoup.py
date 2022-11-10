@@ -10,4 +10,4 @@ soup = BeautifulSoup(site, 'html.parser')
 for link in soup.find_all('a'):
     print(link.get('href'))
 for link in soup.find_all("img"):
-    print(link.get('href'))
+    print(link.get('src'))
