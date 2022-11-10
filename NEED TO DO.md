@@ -106,9 +106,11 @@ Happy Hopper
 
 Lists
 
-Beautiful soup
+Page Scraper
 
 # NEED TO DO
+
+Beautiful soup
 
 Events calendar
 
@@ -127,8 +129,6 @@ Complex Numbers
 Fireworks
 
 Mandelbrot Set
-
-Page Scraper
 
 Such meme, many like
 
