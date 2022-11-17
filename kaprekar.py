@@ -1,5 +1,5 @@
 def kaprekar(a):
-    check = list(str(a**2))
+    check = str(a**2)
     kaprekar = 0
     for i in check:
         kaprekar += int(i)

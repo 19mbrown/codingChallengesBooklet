@@ -1,6 +1,3 @@
-from os import system
-
-
 quesAndAns = dict()
 
 while True:
