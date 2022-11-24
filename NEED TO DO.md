@@ -110,11 +110,13 @@ Page Scraper
 
 Fib on a chi
 
+That’s a lot of number
+
+Events calendar
+
 # NEED TO DO
 
 Beautiful soup
-
-Events calendar
 
 Data Entry
 
@@ -153,7 +155,5 @@ Travel club
 Checkmate checker
 
 String permutation
-
-That’s a lot of number
 
 Printer problems
